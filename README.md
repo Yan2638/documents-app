@@ -2,7 +2,7 @@
 npm install
 
 2. Запуск сервера
-npx node-ts server.ts
+npx ts-node server.ts
 
 3. Запуск фронтенда
 npm run dev
